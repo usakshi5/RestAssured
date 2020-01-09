@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="restassured.DeleteJson">
+        <methods>
+          <include name="getData"/>
+        </methods>
+      </class> <!-- restassured.DeleteJson -->
+      <class name="restassured.GetXml">
+        <methods>
+          <include name="get"/>
+        </methods>
+      </class> <!-- restassured.GetXml -->
+      <class name="restassured.DeleteXML">
+        <methods>
+          <include name="getDate"/>
+        </methods>
+      </class> <!-- restassured.DeleteXML -->
+      <class name="restassured.Jira">
+        <methods>
+          <include name="addComments"/>
+          <include name="deleteIssue"/>
+          <include name="createIssue"/>
+          <include name="getData"/>
+          <include name="editComments"/>
+          <include name="createSession"/>
+        </methods>
+      </class> <!-- restassured.Jira -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

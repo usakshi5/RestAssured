@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="6180" started-at="2020-01-09T22:28:52Z" finished-at="2020-01-09T22:28:58Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="6180" started-at="2020-01-09T22:28:52Z" finished-at="2020-01-09T22:28:58Z">
+      <class name="restassured.DeleteXML">
+        <test-method status="PASS" signature="post()[pri:0, instance:restassured.DeleteXML@59f99ea]" name="post" duration-ms="3068" started-at="2020-01-09T14:28:52Z" finished-at="2020-01-09T14:28:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- post -->
+      </class> <!-- restassured.DeleteXML -->
+      <class name="restassured.DeleteJson">
+        <test-method status="PASS" signature="getData()[pri:0, instance:restassured.DeleteJson@27efef64]" name="getData" is-config="true" duration-ms="16" started-at="2020-01-09T14:28:52Z" finished-at="2020-01-09T14:28:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getData -->
+        <test-method status="PASS" signature="getDate()[pri:0, instance:restassured.DeleteXML@59f99ea]" name="getDate" is-config="true" duration-ms="0" started-at="2020-01-09T14:28:52Z" finished-at="2020-01-09T14:28:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getDate -->
+        <test-method status="PASS" signature="post()[pri:0, instance:restassured.DeleteJson@27efef64]" name="post" duration-ms="1653" started-at="2020-01-09T14:28:55Z" finished-at="2020-01-09T14:28:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- post -->
+      </class> <!-- restassured.DeleteJson -->
+      <class name="restassured.RestPost">
+        <test-method status="PASS" signature="post()[pri:0, instance:restassured.RestPost@3e6fa38a]" name="post" duration-ms="617" started-at="2020-01-09T14:28:57Z" finished-at="2020-01-09T14:28:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- post -->
+      </class> <!-- restassured.RestPost -->
+      <class name="restassured.GetJson">
+        <test-method status="PASS" signature="get()[pri:0, instance:restassured.GetJson@47c62251]" name="get" duration-ms="281" started-at="2020-01-09T14:28:57Z" finished-at="2020-01-09T14:28:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get -->
+      </class> <!-- restassured.GetJson -->
+      <class name="restassured.Rest">
+        <test-method status="PASS" signature="get()[pri:0, instance:restassured.Rest@6f7fd0e6]" name="get" duration-ms="485" started-at="2020-01-09T14:28:55Z" finished-at="2020-01-09T14:28:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get -->
+      </class> <!-- restassured.Rest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

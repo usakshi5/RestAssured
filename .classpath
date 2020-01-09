@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Uma Sakshi/Documents/Rest/restjars/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Uma Sakshi/Documents/Rest/restjars/btf-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Uma Sakshi/Documents/Rest/restjars/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Uma Sakshi/Documents/Rest/restjars/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Uma Sakshi/Documents/Rest/restjars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Uma Sakshi/Documents/Rest/restjars/groovy-2.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Uma Sakshi/Documents/Rest/restjars/groovy-json-2.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Uma Sakshi/Documents/Rest/restjars/groovy-xml-2.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Uma Sakshi/Documents/Rest/restjars/guava-16.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Uma Sakshi/Documents/Rest/restjars/hamcrest-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Uma Sakshi/Documents/Rest/restjars/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Uma Sakshi/Documents/Rest/restjars/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Uma Sakshi/Documents/Rest/restjars/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Uma Sakshi/Documents/Rest/restjars/jackson-annotations-2.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Uma Sakshi/Documents/Rest/restjars/jackson-core-2.9.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Uma Sakshi/Documents/Rest/restjars/jackson-coreutils-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Uma Sakshi/Documents/Rest/restjars/jackson-databind-2.9.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Uma Sakshi/Documents/Rest/restjars/javax.activation-api-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Uma Sakshi/Documents/Rest/restjars/jaxb-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Uma Sakshi/Documents/Rest/restjars/jaxb-osgi-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Uma Sakshi/Documents/Rest/restjars/joda-time-2.9.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Uma Sakshi/Documents/Rest/restjars/jopt-simple-5.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Uma Sakshi/Documents/Rest/restjars/json-path-4.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Uma Sakshi/Documents/Rest/restjars/json-path-4.1.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Uma Sakshi/Documents/Rest/restjars/json-path-4.1.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Uma Sakshi/Documents/Rest/restjars/json-schema-core-1.2.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Uma Sakshi/Documents/Rest/restjars/json-schema-validator-2.2.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Uma Sakshi/Documents/Rest/restjars/json-schema-validator-4.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Uma Sakshi/Documents/Rest/restjars/json-schema-validator-4.1.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Uma Sakshi/Documents/Rest/restjars/json-schema-validator-4.1.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Uma Sakshi/Documents/Rest/restjars/jsr305-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Uma Sakshi/Documents/Rest/restjars/libphonenumber-8.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Uma Sakshi/Documents/Rest/restjars/mailapi-1.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Uma Sakshi/Documents/Rest/restjars/msg-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Uma Sakshi/Documents/Rest/restjars/org.apache.sling.javax.activation-0.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Uma Sakshi/Documents/Rest/restjars/rest-assured-4.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Uma Sakshi/Documents/Rest/restjars/rest-assured-4.1.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Uma Sakshi/Documents/Rest/restjars/rest-assured-4.1.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Uma Sakshi/Documents/Rest/restjars/rest-assured-common-4.1.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Uma Sakshi/Documents/Rest/restjars/rest-assured-common-4.1.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Uma Sakshi/Documents/Rest/restjars/rhino-1.7.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Uma Sakshi/Documents/Rest/restjars/scala-library-2.13.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Uma Sakshi/Documents/Rest/restjars/scala-support-4.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Uma Sakshi/Documents/Rest/restjars/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Uma Sakshi/Documents/Rest/restjars/uri-template-0.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Uma Sakshi/Documents/Rest/restjars/xml-path-4.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Uma Sakshi/Documents/Rest/restjars/xml-path-4.1.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Uma Sakshi/Documents/Rest/restjars/xml-path-4.1.1-sources.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
